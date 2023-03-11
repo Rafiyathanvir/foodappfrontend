@@ -1,5 +1,5 @@
 <h1>FrontEnd App Link:</h1>
-https://foodsdeliveryapp.netlify.app/Home
+https://tiny-beijinho-81a70d.netlify.app/login
 </hr>
 <h1>Admin Credential:</h1>
 <h3>Admin:</h3> rafiyathanvir@gmail.com
