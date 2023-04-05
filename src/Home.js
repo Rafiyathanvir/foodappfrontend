@@ -104,7 +104,7 @@ function Home() {
 
     <div class="box">
     <img src={syed} alt="" />
-        <h3>Abdul</h3>
+        <h3>rafiya</h3>
         <div class="stars">
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
@@ -116,7 +116,7 @@ function Home() {
     </div>
     <div class="box">
     <img src={athil} alt="" />
-        <h3>Mohamed athil</h3>
+        <h3>rafiya1</h3>
         <div class="stars">
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
@@ -128,7 +128,7 @@ function Home() {
     </div>
     <div class="box">
     <img src={ruhaiz} alt="" />
-        <h3>Ruhaiz</h3>
+        <h3>rafiya3</h3>
         <div class="stars">
             <i class="fas fa-star" style={{ color: "#FDCC0D"}}></i>
             <i class="fas fa-star"style={{ color: "#FDCC0D"}}></i>
@@ -183,7 +183,6 @@ abdul-hadhi-460942216">linkedin</a>
 
     </div>
 
-    <div class="credit"> copyright @ 2023 by <span>Abdul</span> </div>
 
 </section>
 
